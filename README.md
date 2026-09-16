@@ -3,7 +3,7 @@
 🌱 I'm currently self-learning front-end and back-end programming languages as they peaked my interest.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,stylex,mongodb,express,figma" width="400" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,mongodb,express,figma" width="400" />
 </a>
 
 ## 👥 Organizations
