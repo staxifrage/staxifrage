@@ -7,6 +7,4 @@
 </a>
 
 ## 👥 Organizations
-  - [SMILE Network Philippines](https://github.com/SmileNetworkPH)
   - [NuxStream Philippines, Inc.](https://github.com/NuxStreamPH)
-  - [Kajise](https://github.com/kajise)
